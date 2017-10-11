@@ -3,7 +3,7 @@
 Clone git repository
 
 ```bash
-https://github.com/t0msk/vim.git ~/.vim
+git clone https://github.com/t0msk/vim.git ~/.vim
 ```
 
 Backup your actual .vimrc
